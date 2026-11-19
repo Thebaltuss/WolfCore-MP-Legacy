@@ -1,0 +1,6 @@
+{
+    "name": "wolfcore/locale-data",
+    "description": "Language resources used by WolfCore-MP",
+    "type": "library",
+    "require": {}
+}

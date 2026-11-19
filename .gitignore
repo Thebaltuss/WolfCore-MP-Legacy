@@ -1,0 +1,12 @@
+# Local runtime and generated artifacts
+/dist/
+/db/
+/plugins/
+/plugin_data/
+/worlds/
+/logs/
+/crashdumps/
+*.phar
+*.log
+*.tmp
+.env
